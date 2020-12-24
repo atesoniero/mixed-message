@@ -1,15 +1,7 @@
-# Random Juutsu generator
-## Assign random juutsu to master according to your chakra type
+# Ninja training generator
+##  Join the ranking of the ninja in the World of Naruto.
 
- 1. Find out which chakra nature you are compatible with:
-    *  Water, Earth, Wind, Fire, Thunder
-    *  Special/Rare (Wood, Ice)
-    *  Assign or not a Kekkei Genkai (Sharingan, Byakugan, Rinnegan and so on)
- 2. Let's see what type of ninja user you are
-    *  Ninjutsu, Genjutsu, Taijutsu
-3. Assign Random jutsu to learn according to your style and nature
-   *  If Taijutsu would be just hand to hand combat and excepionally the eigth gates
-   *  Genjustu (Tsukuyomi, and others)
-   *  Ninjutsu (There are tenths to learn from each nature)
-
-Messages should be the ninjutsu
+Find out what fate has to offer you.
+* Get assigned to a Village within one of the Lands
+* Train with one of the legendary kages of your Village
+* Discover your chakra nature affiliation and master 5 powerfull ninjutsu
