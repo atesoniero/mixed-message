@@ -265,8 +265,11 @@ function displayMessage() {
   messageBits.push(justuPicks);
 
   // PRINT MESSAGE
-  console.log(`Congratulation young Genin: You are going to train in the village of ${messageBits[1]} inside the ${messageBits[0]}.
-Your sensei will be the ${messageBits[2]} ${messageBits[3]} and you will learn the ${messageBits[4]} art and master these powerful jutsu: ${messageBits[5]}`);
+  console.log(`
+  Congratulation young Genin:
+You are going to train in the village of ${messageBits[1]} inside the ${messageBits[0]}.
+Your sensei will be the ${messageBits[2]} ${messageBits[3]} and you will learn the ${messageBits[4]} art and master these powerful jutsu: ${messageBits[5]}
+`);
 }
 
 // RUN THE FUNCTION 
