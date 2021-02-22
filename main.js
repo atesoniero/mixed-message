@@ -1,4 +1,4 @@
-// Message should read: "Congratulation young Genin: You are going to train in VILLAGE, under the "KAGE" and you will master these powerfull jutsu: JUTSUS"
+// Message should read: "Congratulation young Genin: You are going to train in "VILLAGE", under the "KAGE" and you will master these powerfull jutsu: "JUTSU"
 
 const lore = {
   landOfFire: {
